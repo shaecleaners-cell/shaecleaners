@@ -24,6 +24,12 @@ padding-bottom:88px}
   align-items:center;
   justify-content:space-between;
 }
+.logo-img{
+  width:135px;
+  height:auto;
+  object-fit:contain;
+  display:block;
+}
 /* =========================================================
    SEARCH
 ========================================================= */
