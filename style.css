@@ -30,11 +30,6 @@ padding-bottom:88px}
   object-fit:contain;
   display:block;
 }
-@media (max-width:480px) {
-  .logo-img {
-    width: 30px;
-  }
-}
 /* =========================================================
    SEARCH
 ========================================================= */
