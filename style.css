@@ -259,7 +259,7 @@ display:grid;place-items:center;font-size:37px}
 .popular-head{margin-top:32px}
 .popular-list{display:grid;grid-template-columns:1fr 1fr;gap:14px;padding:0 26px}
 .popular-card{background:#fff;border-radius:20px;overflow:hidden;border:1px solid var(--line)}
-.popular-img{height:100px;background:linear-gradient(135deg,#e7f7ec,#bdebc9);display:grid;place-items:center;font-size:32px;position:relative}
+.popular-img{height:100px;background:linear-gradient(135deg,#e7f7ec,#bdebc9);display:grid;place-items:center;font-size:50px;position:relative}
 .badge{position:absolute;top:10px;left:10px;background:#21a956;color:#fff;border-radius:16px;padding:6px 10px;font-size:11px;font-weight:800}.popular-info{padding:13px}
 .popular-info h3{font-size:15px;margin:0 0 5px}
 .popular-info p{font-size:12px;color:#7a8591;margin:0}
