@@ -15,12 +15,12 @@ import {
 } from "https://www.gstatic.com/firebasejs/12.1.0/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "GANTI_API_KEY",
-  authDomain: "GANTI_PROJECT.firebaseapp.com",
-  projectId: "GANTI_PROJECT_ID",
-  storageBucket: "GANTI_PROJECT.firebasestorage.app",
-  messagingSenderId: "GANTI_SENDER_ID",
-  appId: "GANTI_APP_ID"
+  apiKey: "AIzaSyAQRKEMFceCbJRGgPfr3Vtt-AdbE38pwVg",
+  authDomain: "shaecleaners-f6ed8.firebaseapp.com",
+  projectId: "shaecleaners-f6ed8",
+  storageBucket: "shaecleaners-f6ed8.firebasestorage.app",
+  messagingSenderId: "839960858623",
+  appId: "1:839960858623:web:1aa97b91f54924cd10e1ca"
 };
 
 const app = initializeApp(firebaseConfig);
