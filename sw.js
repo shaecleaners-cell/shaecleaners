@@ -1,4 +1,4 @@
-const CACHE_NAME = "shae-cleaners-v1";
+const CACHE_NAME = "shaecleaners";
 const APP_SHELL = [
   "./",
   "./index.html",
