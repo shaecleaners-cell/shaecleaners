@@ -3,7 +3,7 @@
   "short_name": "Shae",
   "description": "Cleaning Marketplace Shae Cleaners",
   "id": "/",
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
@@ -74,7 +74,7 @@
     {
       "name": "Pesanan Saya",
       "short_name": "Pesanan",
-      "url": "/index.html#pesanan"
+      "url": "index.html#pesanan"
     }
   ]
 }
