@@ -250,7 +250,7 @@ gap:22px 8px}
 .service-item{border:0;
 background:none;text-align:center;
 cursor:pointer;color:#344150}
-.service-icon{width:32px;height:32px;
+.service-icon{width:72px;height:72px;
 border-radius:50%;
 margin:auto auto 9px;
 background:#eaf8ef;border:8px solid #f5fff8;
@@ -261,8 +261,8 @@ display:grid;place-items:center;font-size:37px}
 .popular-card{background:#fff;border-radius:20px;overflow:hidden;border:1px solid var(--line)}
 .popular-img{height:100px;background:linear-gradient(135deg,#e7f7ec,#bdebc9);display:grid;place-items:center;font-size:50px;position:relative}
 .badge{position:absolute;top:10px;left:10px;background:#21a956;color:#fff;border-radius:16px;padding:6px 10px;font-size:11px;font-weight:800}.popular-info{padding:13px}
-.popular-info h3{font-size:15px;margin:0 0 5px}
-.popular-info p{font-size:12px;color:#7a8591;margin:0}
+.popular-info h3{font-size:12px;margin:0 0 5px}
+.popular-info p{font-size:10px;color:#7a8591;margin:0}
 .why{padding:40px 26px 10px}
 .section-title{padding:0 0 20px}
 .why-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
